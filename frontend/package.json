@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "npx serve -s dist -l $PORT"
+    "start": "serve -s dist -l $PORT"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
